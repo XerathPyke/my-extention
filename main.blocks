@@ -1,0 +1,17 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="nf]_^{u`v4CM9i|/i)tX" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="{ujZN@]0X!4e?z~4o1oz"><value name="color"><shadow type="colorindexpicker" id="dn`#W=Q~M-sjMMV_@v,4"><field name="index">12</field></shadow></value><next><block type="particlesStartScreenAnimation" id="k`JhDf5YdL{Jw7S#gSt{"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.confetti</field><value name="duration"><shadow type="timePicker" id="LxHJ(H0ID63V~mZ_LUhV"><field name="ms">500</field></shadow></value><next><block type="device_pause" id="pt(fXqi=S%T*qe9Q9TcL"><value name="pause"><shadow type="timePicker" id="QU?=6OmE%~36nX?-inQ/"><field name="ms">3000</field></shadow></value><next><block type="game_show_long_text" id="c^%1~0x9ki;DZZA:+;p,"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="9^[7SUoif~B*lUP?0$)e"><field name="TEXT">Yeet!</field></shadow></value><next><block type="game_dialog_set_frame" id="iYjQs7tbJ-EokIstJC.k"><value name="frame"><shadow type="dialog_image_picker" id="jHWqWbWM)99G.$0@lXA."><field name="img">img`
+3 3 3 3 . . . . . . . 3 3 3 3 
+3 3 3 . . . . . . . . . 3 3 3 
+3 3 . . . . . . . . . . . 3 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 . . . . . . . . . . . . . 3 
+3 3 . . . . . . . . . . . 3 3 
+3 3 3 . . . . . . . . . 3 3 3 
+3 3 3 3 . . . . . . . 3 3 3 3 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"jHWqWbWM)99G.$0@lXA."}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="g(a7Nx@_RW7B+;ualbD*"><value name="color"><shadow type="colorindexpicker" id="f_p}(PQ7bquOh;Z*]6k{"><field name="index">8</field></shadow></value><next><block type="particlesEndScreenAnimation" id="y-s,Y#s(1G(t*CmTMp=h"><field name="effect">effects.confetti</field><next><block type="mixer_play_sound" id=")$}1E#$99:=o1)zMRm^r"><field name="sound">music.powerDown</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
